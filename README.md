@@ -4,6 +4,11 @@ A simple and elegant QR Code Generator built with **HTML**, **CSS**, and **JavaS
 
 ![Preview](https://github.com/yijuchoo/qr_code_generator_JS1/blob/main/preview.png)
 
+## 📺 Demo
+
+[![Watch the video](https://img.youtube.com/vi/nZXlSnCoWB8/0.jpg)](https://www.youtube.com/watch?v=nZXlSnCoWB8)
+
+
 ## 🚀 Features
 
 - 🧾 Enter any **text or URL** to instantly generate a QR code
