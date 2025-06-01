@@ -6,7 +6,8 @@ A simple and elegant QR Code Generator built with **HTML**, **CSS**, and **JavaS
 
 ## 📺 Demo
 
-[![Watch the video](https://img.youtube.com/vi/nZXlSnCoWB8/0.jpg)](https://www.youtube.com/watch?v=nZXlSnCoWB8)
+Watch the video walkthrough on YouTube:  
+👉 [https://www.youtube.com/watch?v=nZXlSnCoWB8](https://www.youtube.com/watch?v=nZXlSnCoWB8)
 
 
 ## 🚀 Features
