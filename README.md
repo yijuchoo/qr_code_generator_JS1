@@ -21,7 +21,7 @@ A simple and elegant QR Code Generator built with **HTML**, **CSS**, and **JavaS
 ## 📂 Project Structure
 
 📁 QR-Code-Generator/
-├── index.html # Main HTML structure
-├── style.css # Styling for the app
-├── index.js # JavaScript logic for generating & downloading QR codes
-└── preview.png # Screenshot preview of the app
+- ├── index.html # Main HTML structure
+- ├── style.css # Styling for the app
+- ├── index.js # JavaScript logic for generating & downloading QR codes
+- └── preview.png # Screenshot preview of the app
